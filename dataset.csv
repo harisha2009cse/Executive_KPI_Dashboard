@@ -1,0 +1,16 @@
+order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct
+1001,2026-01-05,Consumer,Chennai,Electronics,2,15000,5
+1002,2026-01-08,Corporate,Madurai,Furniture,3,8000,10
+1003,2026-01-12,Consumer,Coimbatore,Clothing,5,1200,5
+1004,2026-01-15,Home Office,Chennai,Electronics,1,25000,8
+1005,2026-01-20,Corporate,Trichy,Furniture,2,6500,12
+1006,2026-02-02,Consumer,Madurai,Clothing,4,1800,5
+1007,2026-02-07,Corporate,Chennai,Electronics,3,12000,7
+1008,2026-02-11,Consumer,Coimbatore,Furniture,1,9500,10
+1009,2026-02-18,Home Office,Trichy,Clothing,6,1500,5
+1010,2026-02-25,Corporate,Madurai,Electronics,2,18000,8
+1011,2026-03-03,Consumer,Chennai,Furniture,4,7000,10
+1012,2026-03-09,Corporate,Coimbatore,Clothing,3,2200,5
+1013,2026-03-14,Home Office,Madurai,Electronics,2,14000,6
+1014,2026-03-20,Consumer,Trichy,Furniture,5,5500,12
+1015,2026-03-27,Corporate,Chennai,Clothing,7,1300,5
